@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-01-01",
+        "address": "123 Main St",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-01-01",
+        "address": "123 Main St",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "id": 2,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-01-01",
+        "address": "123 Main St",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "id": 3,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-01-01",
+        "address": "123 Main St",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "id": 4,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-01-01",
+        "address": "123 Main St",
+        "jobPosition": "Developer",
+        "salary": 5000
+    },
+    {
+        "id": 5,
+        "firstName": "Long",
+        "lastName": "Hoang",
+        "dateOfBirth": "01\/03\/2002",
+        "address": "\u1ea1kwhfkajwfn",
+        "jobPosition": "khkj",
+        "salary": 1
+    },
+    {
+        "id": 6,
+        "firstName": "Long",
+        "lastName": "Hoang",
+        "dateOfBirth": "30\/100\/2002",
+        "address": "\u1ea1kwhfkajwfn",
+        "jobPosition": "huiiu",
+        "salary": 2
+    },
+    {
+        "id": 8,
+        "firstName": "son",
+        "lastName": "nguyen",
+        "dateOfBirth": "12\/03\/2001",
+        "address": "kalf",
+        "jobPosition": "intern",
+        "salary": 0
+    },
+    {
+        "id": 9,
+        "firstName": "hoang",
+        "lastName": "thu",
+        "dateOfBirth": "36\/12\/2005",
+        "address": "ahfiawf",
+        "jobPosition": "\u00e0lwnln",
+        "salary": 200002
+    }
+]
